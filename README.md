@@ -8,9 +8,6 @@ This is a project I built to practice working with more than one API at once. Wh
 
 ## Screenshot
 
-<!-- Replace the file name below with your own screenshot. Put the picture in the screenshots folder.
-     Mac tip: Cmd + Shift + 4, then drag a box around the app. -->
-
 ![The NASA facilities table with temperatures](assets/complexnasa.png)
 
 ## Features
@@ -54,6 +51,8 @@ This app needs a WeatherAPI key.
 - How to use data from one API to ask a second API for more information
 - How to turn JSON into table rows with JavaScript
 - How to read a dropdown value to change what the page shows
+
+VIEW APP HERE: https://complex-nasa.onrender.com
 
 ## Author
 
