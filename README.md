@@ -57,4 +57,4 @@ This app needs a WeatherAPI key.
 
 ## Author
 
-Maya Rose — [GitHub](https://github.com/Mayaerose) 🚀
+Maya Rose 🌹
